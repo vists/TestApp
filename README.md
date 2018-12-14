@@ -1,1 +1,1 @@
-MyTestApplication
+Application Android
